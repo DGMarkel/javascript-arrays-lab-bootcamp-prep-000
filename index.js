@@ -7,5 +7,3 @@ function kittens() {
  function kittens() {
     return kittens.push("Ralph");
   }
-
-
