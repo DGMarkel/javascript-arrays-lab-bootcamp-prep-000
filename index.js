@@ -4,6 +4,6 @@ function kittens() {
    return kittens;
  }
 
- function kittens() {
-    return kittens.push("Ralph");
+ function destructivelyAppendKitten(name) {
+    return kittens.push(name);
   }
