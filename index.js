@@ -1,3 +1,5 @@
 const app = "I don't do much."
 
-return kittens;
+function kittens() {
+   return kittens;
+ }
